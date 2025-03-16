@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohith-reddy" alt="sohith-reddy" /></a> </p>
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Generative AI and Prompting**
 
 - 👯 I’m looking to collaborate on **Cloud native and ML projects**
 
-- 🤝 I’m looking for help with **Deep Learning**
+- 🤝 I’m looking for help with **Prompting and NLP**
 
-- 📫 How to reach me **sohithreddy33@gmail.com**
+- 📫 Contact me **sohithreddy33@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
