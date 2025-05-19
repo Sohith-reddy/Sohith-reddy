@@ -56,7 +56,7 @@
 - 👯 Open to collaborating on **Cloud-native apps & ML/AI-based solutions**
 - 🤝 Looking for help with **Advanced Prompting Techniques & NLP**
 - 📫 Reach me at **sohithreddy33@gmail.com**
-- 😎Checkout my portfolio at **https://bit.ly/4krGvNx**
+- 😎 Checkout my portfolio at **https://bit.ly/4krGvNx**
 
 ### 🌐 Connect With Me
 <p align="left">
