@@ -56,6 +56,7 @@
 - 👯 Open to collaborating on **Cloud-native apps & ML/AI-based solutions**
 - 🤝 Looking for help with **Advanced Prompting Techniques & NLP**
 - 📫 Reach me at **sohithreddy33@gmail.com**
+- 😎Checkout my portfolio at **https://bit.ly/4krGvNx**
 
 ### 🌐 Connect With Me
 <p align="left">
@@ -71,6 +72,10 @@
   <a href="https://leetcode.com/u/sohith_reddy01/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
+  <a href="https://sohith-portfolio-sohith-reddys-projects.vercel.app" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
 </p>
 
 <div align="center">
